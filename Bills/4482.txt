@@ -1,0 +1,16 @@
+		 THANK YOU 
+ Bill Number:4482
+ Customer Name:
+ Phone Number:
+ Customer Email:
+===========================================
+ Products			QTY		Price
+=========================================== Jack&Jones		1		1200
+ Polo		1		1500
+ Peter England		1		450
+
+===========================================
+ Sub Amount:			Rs.3950.00
+ Tax Amount:			Rs.35.00
+ Total Amount:			Rs.3985.00
+=========================================
